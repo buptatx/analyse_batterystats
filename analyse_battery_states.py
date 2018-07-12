@@ -3,13 +3,14 @@
 import json
 import os
 import xlwt
+import time
 
 def get_estimated_drain(filename):
     start_idx = 0
     end_idx = 0
     cur_idx = 0
     content = []
-    target_proc = ""
+    target_proc = "target_proc"
 
     with open(filename, "rb") as mf:
         for sline in mf:
@@ -23,6 +24,15 @@ def get_estimated_drain(filename):
 
             content.append(line)
             cur_idx += 1
+
+    if end_idx == 0:
+        end_idx = start_idx + 30
+
+    print("cur_idx: %d" % cur_idx)
+    print("start_idx: %d" % start_idx)
+    print("end_idx :%d" % end_idx)
+    print("target_proc :%s" % target_proc)
+
 
     power_content = content[start_idx:end_idx+1]
     power_estimated = {}
@@ -38,6 +48,9 @@ def get_estimated_drain(filename):
         elif "Wifi" in line:
             power_estimated["wifi"] = float(line.split(" ")[5])
 
+    if "target" not in power_estimated:
+        power_estimated["target"] = 0
+
     return power_estimated
 
 
@@ -52,8 +65,9 @@ def walk_data_dir(data_path):
                 continue
             res["scene"] = name
             result.append(res)
-    
-    store_excel(result.sort(key=lambda x:(-x["target"], -x["total_drain"])))
+
+    result.sort(key=lambda x:(-x["target"], -x["total_drain"]))
+    store_excel(result)
 
 
 def store_excel(res):
@@ -80,8 +94,10 @@ def store_excel(res):
 
         cur_line += 1
 
-    wbk.save("./result.xlsx")
+    result_filename = time.strftime("result_%Y%m%d_%H%M%S.xlsx")
+    wbk.save(result_filename)
 
 
 if __name__ == "__main__":
     walk_data_dir("./data")
+    #get_estimated_drain("./data/wifi_on_xj_view.txt")
