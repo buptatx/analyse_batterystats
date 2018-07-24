@@ -32,11 +32,13 @@ def get_estimated_drain(filename):
     power_estimated = {}
     for line in power_content:
         if "Computed drain" in line:
-            power_estimated["total_drain"] = int(line.split(", actual")[0].split("drain:")[1])
+            power_estimated["total_drain"] = float(line.split(", actual")[0].split("drain:")[1])
         elif "Screen:" in line:
             power_estimated["screen"] = float(line.split("Screen:")[1].split("\\")[0])
         elif target_proc in line:
             power_estimated["target"] = float(line.split(" ")[6])
+            power_estimated["target_detail"] = line.split("(")[1].strip().split(" )")[0]
+            power_estimated["target_without_gps"] = sum([float(i.split("=")[1]) for i in power_estimated["target_detail"].split(" ") if "gps" not in i])
         elif "Cell standby" in line:
             power_estimated["cell"] = float(line.split(" ")[6])
         elif "Wifi" in line:
@@ -44,6 +46,8 @@ def get_estimated_drain(filename):
 
     if "target" not in power_estimated:
         power_estimated["target"] = 0
+        power_estimated["target_detail"] = 0
+        power_estimated["target_without_gps"] = 0
 
     return power_estimated
 
@@ -61,35 +65,47 @@ def walk_data_dir(data_path):
             res["desc"] = get_scene_desc(name)
             result.append(res)
 
-    result.sort(key=lambda x:(-x["target"], -x["total_drain"]))
+    result.sort(key=lambda x:(-x["target_without_gps"], -x["target"], -x["total_drain"]))
     store_excel(result)
 
 
 def get_scene_desc(name):
-	if "no_internet_wpw_per_5_min" in name and "bgm" not in name:
-		return "断网每5分钟播放一次唤醒词"
-	elif "wifi_wpw_per_5_min" in name and "bgm" not in name:
-		return "wifi每5分钟播放一次唤醒词"
-	elif "4G_wpw_per_5_min" in name and "bgm" not in name:
-		return "4G每5分钟播放一次唤醒词"
-	elif "no_internet_wpw_per_5_min_with_bgm" in name:
-		return "断网播放背景音乐每5分钟播放一次唤醒词"
-	elif "wifi_wpw_per_5_min_with_bgm" in name:
-		return "wifi播放背景音乐每5分钟播放一次唤醒词"
-	elif "4G_wpw_per_5_min_with_bgm" in name:
-		return "4G播放背景音乐每5分钟播放一次唤醒词"
-	elif "4G_on_xj_view" in name:
-		return "4G在小简页面静等待1小时"
-	elif "wifi_on_xj_view" in name:
-		return "wifi在小简页面静等待1小时"
-	elif "no_internet_on_xj_view" in name:
-		return "断网在小简页面静等待1小时"
-	elif "4G_on_launcher_with_xj_app" in name:
-		return "4G在原生桌面静等待1小时"
-	elif "4G_without_xj_app" in name:
-		return "4G未安装小简app"
-	else:
-		return "未知场景"
+    if "no_internet_wpw_per_5_min" in name and "bgm" not in name and "no_wakeup" not in name:
+        return "断网每5分钟播放一次唤醒词"
+    elif "wifi_wpw_per_5_min" in name and "bgm" not in name and "no_wakeup" not in name:
+        return "wifi每5分钟播放一次唤醒词"
+    elif "4G_wpw_per_5_min" in name and "bgm" not in name and "no_wakeup" not in name:
+        return "4G每5分钟播放一次唤醒词"
+    elif "no_internet_wpw_per_5_min_with_bgm" in name and "no_wakeup" not in name:
+        return "断网播放背景音乐每5分钟播放一次唤醒词"
+    elif "wifi_wpw_per_5_min_with_bgm" in name and "no_wakeup" not in name:
+        return "wifi播放背景音乐每5分钟播放一次唤醒词"
+    elif "4G_wpw_per_5_min_with_bgm" in name and "no_wakeup" not in name:
+        return "4G播放背景音乐每5分钟播放一次唤醒词"
+    elif "4G_on_xj_view" in name and "no_wakeup" not in name:
+        return "4G在小简页面静等待1小时"
+    elif "wifi_on_xj_view" in name and "no_wakeup" not in name:
+        return "wifi在小简页面静等待1小时"
+    elif "no_internet_on_xj_view" in name and "no_wakeup" not in name:
+        return "断网在小简页面静等待1小时"
+    elif "4G_on_launcher_with_xj_app" in name and "no_wakeup" not in name:
+        return "4G在原生桌面静等待1小时"
+    elif "4G_without_xj_app" in name and "no_wakeup" not in name:
+        return "4G未安装小简app"
+    elif "no_wakeup_no_internet_on_xj_view" in name:
+        return "无唤醒功能断网在小简界面等待1小时"
+    elif "no_wakeup_4G_on_xj_view" in name:
+        return "无唤醒功能4G在小简界面等待1小时"
+    elif "no_wakeup_wifi_on_xj_view" in name:
+        return "无唤醒功能wifi在小简界面等待1小时"
+    elif "no_wakeup_fuc_wifi_on_xj_view" in name:
+        return "无唤醒包wifi在小简界面等待1小时"
+    elif "no_wakeup_fuc_no_internet_on_xj_view" in name:
+        return "无唤醒包断网在小简界面等待1小时"
+    elif "no_wakeup_fuc_4G_on_xj_view" in name:
+        return "无唤醒包4G在小简界面等待1小时"
+    else:
+        return "未知场景"
 
 
 def store_excel(res):
@@ -102,8 +118,10 @@ def store_excel(res):
     sht.write(0, 2, "总消耗(mAh)", data_size)
     sht.write(0, 3, "屏幕消耗(mAh)", data_size)
     sht.write(0, 4, "小简消耗(mAh)", data_size)
-    sht.write(0, 5, "移动网络(mAh)", data_size)
-    sht.write(0, 6, "Wifi(mAh)", data_size)
+    sht.write(0, 5, "小简不包含gps消耗(mAh)", data_size)
+    sht.write(0, 6, "消耗明细(mAh)", data_size)
+    sht.write(0, 7, "移动网络(mAh)", data_size)
+    sht.write(0, 8, "Wifi(mAh)", data_size)
 
     char_width = 269
     sht.col(0).width = char_width * 60
@@ -111,8 +129,10 @@ def store_excel(res):
     sht.col(2).width = char_width * 20
     sht.col(3).width = char_width * 20
     sht.col(4).width = char_width * 20
-    sht.col(5).width = char_width * 20
-    sht.col(6).width = char_width * 20
+    sht.col(5).width = char_width * 30
+    sht.col(6).width = char_width * 50
+    sht.col(7).width = char_width * 20
+    sht.col(8).width = char_width * 20
 
     cur_line = 1
 
@@ -125,14 +145,16 @@ def store_excel(res):
         sht.write(cur_line, 2, item["total_drain"], data_size)
         sht.write(cur_line, 3, item["screen"], data_size)
         sht.write(cur_line, 4, item["target"], data_size)
+        sht.write(cur_line, 5, item["target_without_gps"], data_size)
+        sht.write(cur_line, 6, item["target_detail"], data_size)
         if "cell" in item:
-            sht.write(cur_line, 5, item["cell"], data_size)
+            sht.write(cur_line, 7, item["cell"], data_size)
         else:
-            sht.write(cur_line, 5, 0, data_size)
+            sht.write(cur_line, 7, 0, data_size)
         if "wifi" in  item:
-            sht.write(cur_line, 6, item["wifi"], data_size)
+            sht.write(cur_line, 8, item["wifi"], data_size)
         else:
-            sht.write(cur_line, 6, 0, data_size)
+            sht.write(cur_line, 8, 0, data_size)
 
         cur_line += 1
 
