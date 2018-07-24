@@ -1,0 +1,2247 @@
+Battery History (4% used, 12KB used of 256KB, 100 strings using 5690):
+                    0 (9) RESET:TIME: 2018-07-05-12-44-21
+                    0 (1) 089 status=charging health=good plug=usb temp=320 volt=4160 +running +wake_lock +audio +screen +plugged data_conn=lte phone_signal_strength=fully brightness=light +wifi_running +wifi wifi_suppl=scanning
+                    0 (2) 089 proc=u0a157:"com.borui.littlejane:remote"
+                    0 (2) 089 proc=u0a74:"android.process.acore"
+                    0 (2) 089 proc=1000:"com.tct.onetouchbooster"
+                    0 (2) 089 proc=u0a78:"com.android.dialer"
+                    0 (2) 089 proc=u0a141:"sogou.mobile.explorer.hotwords"
+                    0 (2) 089 proc=1000:"WebViewLoader-armeabi-v7a"
+                    0 (2) 089 proc=1000:"WebViewLoader-arm64-v8a"
+                    0 (2) 089 proc=u0a84:"com.jrdcom.filemanager"
+                    0 (2) 089 proc=1000:"com.cmx.cmvirtualbox"
+                    0 (2) 089 proc=u0a95:"com.android.systemui:screenshot"
+                    0 (2) 089 proc=u0a118:"com.jrdcom.wearable.standalone.app:Service"
+                    0 (2) 089 proc=u0a157:"com.borui.littlejane"
+                    0 (2) 089 proc=1000:"com.mediatek.atci.service"
+                    0 (2) 089 proc=1000:"com.mediatek.voiceextension"
+                    0 (2) 089 proc=u0a116:"com.mediatek.apst.target"
+                    0 (2) 089 proc=1000:"com.android.settings"
+                    0 (2) 089 proc=u0a87:"com.tct.launcher"
+                    0 (2) 089 proc=1001:"com.mediatek.engineermode"
+                    0 (2) 089 proc=u0a74:"com.android.contacts:remote"
+                    0 (2) 089 proc=u0a134:"com.moji.tcl:Skin"
+                    0 (2) 089 proc=1001:"com.mediatek.ims"
+                    0 (2) 089 proc=1000:"com.jrdcom.salestracker"
+                    0 (2) 089 proc=1000:"com.mediatek.selfregister"
+                    0 (2) 089 proc=u0a85:"com.tct.gallery3d"
+                    0 (2) 089 proc=u0a135:"com.tcl.account.china:notes"
+                    0 (2) 089 proc=u0a118:"com.jrdcom.wearable.standalone.app:Cloud"
+                    0 (2) 089 proc=u0a94:"com.android.statementservice"
+                    0 (2) 089 proc=u0a118:"com.jrdcom.wearable.standalone.app"
+                    0 (2) 089 proc=u0a75:"com.tct.camera"
+                    0 (2) 089 proc=u0a132:"com.tcl.gc.china"
+                    0 (2) 089 proc=u0a74:"com.android.contacts"
+                    0 (2) 089 proc=1001:"com.mediatek.gba"
+                    0 (2) 089 proc=u0a72:"com.tct.calendar"
+                    0 (2) 089 proc=u0a133:"com.levect.lockscreen.tcl"
+                    0 (2) 089 proc=1001:"com.mediatek.wfo.impl"
+                    0 (2) 089 proc=u0a129:"com.tct.wechat.proxy"
+                    0 (2) 089 proc=u0a118:"com.jrdcom.wearable.standalone.app:LOG"
+                    0 (2) 089 proc=1000:"com.tcl.ota"
+                    0 (2) 089 proc=u0a93:"com.tct.soundrecorder"
+                    0 (2) 089 proc=u0a155:"com.baidu.map.location"
+                    0 (2) 089 proc=u0a107:"com.android.deskclock"
+                    0 (2) 089 proc=u0a79:"android.process.media"
+                    0 (2) 089 proc=u0a141:"com.sohu.inputmethod.sogou"
+                    0 (2) 089 proc=u0a134:"com.moji.tcl:pushservice"
+                    0 (2) 089 proc=u0a95:"com.android.systemui"
+                    0 (2) 089 proc=1001:"com.android.phone"
+                    0 (2) 089 proc=u0a132:"com.tcl.gc.china:tclservice_v1"
+                    0 (2) 089 proc=u0a89:"com.android.mms"
+                    0 (2) 089 proc=u0a134:"com.moji.tcl"
+                    0 (2) 089 proc=u0a135:"com.tcl.account.china:sync"
+                    0 (2) 089 fg=u0a118:"com.jrdcom.wearable.standalone.app"
+                    0 (2) 089 fg=1000:"com.mediatek.selfregister"
+                    0 (2) 089 top=u0a87:"com.tct.launcher"
+                    0 (2) 089 wake_lock_in=-1:"screen"
+                    0 (2) 089 user=0:"0"
+                    0 (2) 089 user=10:"10"
+                    0 (2) 089 userfg=0:"0"
+                 +6ms (2) 089 stats=0:"dump"
+            +10s512ms (2) 089 +proc=u0a157:"com.borui.littlejane:remote"
+            +10s512ms (2) 089 +proc=u0a74:"android.process.acore"
+            +10s512ms (2) 089 +proc=1000:"com.tct.onetouchbooster"
+            +10s512ms (2) 089 +proc=u0a78:"com.android.dialer"
+            +10s512ms (2) 089 +proc=u0a141:"sogou.mobile.explorer.hotwords"
+            +10s512ms (2) 089 +proc=1000:"WebViewLoader-armeabi-v7a"
+            +10s512ms (2) 089 +proc=1000:"WebViewLoader-arm64-v8a"
+            +10s512ms (2) 089 +proc=u0a84:"com.jrdcom.filemanager"
+            +10s512ms (2) 089 +proc=1000:"com.cmx.cmvirtualbox"
+            +10s512ms (2) 089 +proc=u0a95:"com.android.systemui:screenshot"
+            +10s512ms (2) 089 +proc=u0a118:"com.jrdcom.wearable.standalone.app:Service"
+            +10s512ms (2) 089 +proc=u0a157:"com.borui.littlejane"
+            +10s512ms (2) 089 +proc=1000:"com.mediatek.atci.service"
+            +10s512ms (2) 089 +proc=1000:"com.mediatek.voiceextension"
+            +10s512ms (2) 089 +proc=u0a116:"com.mediatek.apst.target"
+            +10s512ms (2) 089 +proc=1000:"com.android.settings"
+            +10s512ms (2) 089 +proc=u0a87:"com.tct.launcher"
+            +10s512ms (2) 089 +proc=1001:"com.mediatek.engineermode"
+            +10s512ms (2) 089 +proc=u0a74:"com.android.contacts:remote"
+            +10s512ms (2) 089 +proc=u0a134:"com.moji.tcl:Skin"
+            +10s512ms (2) 089 +proc=1001:"com.mediatek.ims"
+            +10s512ms (2) 089 +proc=1000:"com.jrdcom.salestracker"
+            +10s512ms (2) 089 +proc=1000:"com.mediatek.selfregister"
+            +10s512ms (2) 089 +proc=u0a85:"com.tct.gallery3d"
+            +10s512ms (2) 089 +proc=u0a135:"com.tcl.account.china:notes"
+            +10s512ms (2) 089 +proc=u0a118:"com.jrdcom.wearable.standalone.app:Cloud"
+            +10s512ms (2) 089 +proc=u0a94:"com.android.statementservice"
+            +10s512ms (2) 089 +proc=u0a118:"com.jrdcom.wearable.standalone.app"
+            +10s512ms (2) 089 +proc=u0a75:"com.tct.camera"
+            +10s512ms (2) 089 +proc=u0a132:"com.tcl.gc.china"
+            +10s512ms (2) 089 +proc=u0a74:"com.android.contacts"
+            +10s512ms (2) 089 +proc=1001:"com.mediatek.gba"
+            +10s512ms (2) 089 +proc=u0a72:"com.tct.calendar"
+            +10s512ms (2) 089 +proc=u0a133:"com.levect.lockscreen.tcl"
+            +10s512ms (2) 089 +proc=1001:"com.mediatek.wfo.impl"
+            +10s512ms (2) 089 +proc=u0a129:"com.tct.wechat.proxy"
+            +10s512ms (2) 089 +proc=u0a118:"com.jrdcom.wearable.standalone.app:LOG"
+            +10s512ms (2) 089 +proc=1000:"com.tcl.ota"
+            +10s512ms (2) 089 +proc=u0a93:"com.tct.soundrecorder"
+            +10s512ms (2) 089 +proc=u0a155:"com.baidu.map.location"
+            +10s512ms (2) 089 +proc=u0a107:"com.android.deskclock"
+            +10s512ms (2) 089 +proc=u0a79:"android.process.media"
+            +10s512ms (2) 089 +proc=u0a141:"com.sohu.inputmethod.sogou"
+            +10s512ms (2) 089 +proc=u0a134:"com.moji.tcl:pushservice"
+            +10s512ms (2) 089 +proc=u0a95:"com.android.systemui"
+            +10s512ms (2) 089 +proc=1001:"com.android.phone"
+            +10s512ms (2) 089 +proc=u0a132:"com.tcl.gc.china:tclservice_v1"
+            +10s512ms (2) 089 +proc=u0a89:"com.android.mms"
+            +10s512ms (2) 089 +proc=u0a134:"com.moji.tcl"
+            +10s512ms (2) 089 +proc=u0a135:"com.tcl.account.china:sync"
+            +12s624ms (2) 089 +wake_lock_in=1000:"*vibrator*"
+            +12s656ms (2) 089 -wake_lock_in=1000:"*vibrator*"
+            +15s613ms (2) 089 +wake_lock_in=1001:"RILJ"
+            +15s624ms (2) 089 stats=0:"battery-state"
+            +15s649ms (2) 089 -wake_lock_in=1001:"RILJ"
+            +15s649ms (2) 089 +proc=1000:"com.fw.upgrade.sysoper"
+            +15s650ms (4) 089 status=not-charging plug=none volt=8398 -plugged -proc=1000:"com.fw.upgrade.sysoper"
+            +16s649ms (2) 089 +proc=u0a117:"com.mediatek.mtklogger"
+            +22s785ms (2) 089 +wake_lock_in=1000:"*launch*"
+            +22s799ms (2) 089 -top=u0a87:"com.tct.launcher"
+            +22s799ms (2) 089 +top=1000:"com.android.settings"
+            +23s013ms (2) 089 -wake_lock_in=1000:"*launch*"
+            +24s214ms (2) 089 +wake_lock_in=1000:"*launch*"
+            +24s276ms (2) 089 stats=0:"get-stats"
+            +24s456ms (2) 089 -wake_lock_in=1000:"*launch*"
+            +26s039ms (3) 089 brightness=dim +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+            +26s706ms (2) 089 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+            +26s798ms (2) 089 -proc=u0a117:"com.mediatek.mtklogger"
+            +27s979ms (2) 089 +wake_lock_in=1000:"*launch*"
+            +28s183ms (2) 089 -wake_lock_in=1000:"*launch*"
+            +28s776ms (2) 089 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+            +29s357ms (2) 089 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+            +30s694ms (2) 089 +wake_lock_in=1000:"*vibrator*"
+            +30s726ms (2) 089 -wake_lock_in=1000:"*vibrator*"
+            +30s876ms (2) 089 +wake_lock_in=u0a87:"*launch*"
+            +30s879ms (2) 089 -top=1000:"com.android.settings"
+            +30s879ms (2) 089 +top=u0a87:"com.tct.launcher"
+            +31s141ms (2) 089 -wake_lock_in=u0a87:"*launch*"
+            +35s104ms (2) 089 +wake_lock_in=u0a87:"*vibrator*"
+            +35s138ms (2) 089 -wake_lock_in=u0a87:"*vibrator*"
+            +36s369ms (2) 089 +wake_lock_in=u0a157:"*launch*"
+            +36s380ms (2) 089 -top=u0a87:"com.tct.launcher"
+            +36s381ms (2) 089 +top=u0a157:"com.borui.littlejane"
+            +36s490ms (2) 089 -wake_lock_in=u0a157:"*launch*"
+            +36s545ms (2) 089 +gps +wake_lock_in=1000:"GpsLocationProvider"
+            +36s564ms (2) 089 +wake_lock_in=1001:"RILJ"
+            +36s573ms (2) 089 -wake_lock_in=1001:"RILJ"
+            +36s575ms (2) 089 +wake_lock_in=1001:"RILJ"
+            +36s578ms (2) 089 -wake_lock_in=1001:"RILJ"
+            +36s608ms (2) 089 +wake_lock_in=1001:"RILJ"
+            +36s612ms (2) 089 -wake_lock_in=1001:"RILJ"
+            +37s451ms (2) 089 +wifi_scan -wake_lock_in=1000:"GpsLocationProvider"
+            +38s546ms (2) 089 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +38s550ms (2) 089 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +38s654ms (2) 089 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +38s654ms (2) 089 -wifi_scan -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +39s285ms (2) 089 +wake_lock_in=1000:"LocationManagerService"
+            +39s285ms (2) 089 -wake_lock_in=1000:"LocationManagerService"
+            +39s286ms (2) 089 +wake_lock_in=1000:"LocationManagerService"
+            +39s286ms (2) 089 +wake_lock_in=u0a155:"LocationManagerService"
+            +39s287ms (2) 089 +wake_lock_in=u0a157:"LocationManagerService"
+            +39s288ms (2) 089 -wake_lock_in=u0a155:"LocationManagerService"
+            +39s289ms (2) 089 -wake_lock_in=u0a157:"LocationManagerService"
+            +39s289ms (2) 089 +wifi_scan -wake_lock_in=1000:"LocationManagerService"
+            +39s470ms (2) 089 +wake_lock_in=1000:"LocationManagerService"
+            +39s471ms (2) 089 -wake_lock_in=1000:"LocationManagerService"
+            +39s547ms (2) 089 +alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+            +39s554ms (2) 089 +wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+            +39s569ms (2) 089 -alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+            +39s569ms (2) 089 -wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+            +40s069ms (2) 089 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +40s078ms (2) 089 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +40s084ms (2) 089 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +40s085ms (2) 089 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +48s336ms (2) 089 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+            +48s339ms (2) 089 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+            +48s343ms (2) 089 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+            +48s344ms (2) 089 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +1m25s654ms (2) 089 volt=8348
+          +1m36s410ms (2) 089 brightness=medium
+          +1m38s545ms (2) 089 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m38s547ms (2) 089 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m38s653ms (2) 089 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m38s653ms (2) 089 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m40s088ms (2) 089 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m40s098ms (2) 089 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m40s098ms (2) 089 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m40s098ms (2) 089 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m44s951ms (2) 089 brightness=dark
+          +1m48s336ms (2) 089 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +1m48s342ms (2) 089 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +1m48s344ms (2) 089 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +1m48s344ms (2) 089 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +2m36s516ms (1) 089 +wifi_scan
+          +2m38s255ms (2) 089 -wifi_scan +wake_lock_in=1001:"RILJ"
+          +2m38s317ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +2m38s320ms (2) 089 +wake_lock_in=1001:"RILJ"
+          +2m38s324ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +2m38s344ms (2) 089 +wake_lock_in=1001:"RILJ"
+          +2m38s349ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +2m38s547ms (2) 089 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m38s550ms (2) 089 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m38s686ms (2) 089 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m38s686ms (2) 089 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m40s103ms (2) 089 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m40s114ms (2) 089 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m40s114ms (2) 089 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m40s114ms (2) 089 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m48s336ms (2) 089 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +2m48s341ms (2) 089 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +2m48s341ms (2) 089 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +2m48s341ms (2) 089 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +3m38s548ms (2) 089 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m38s551ms (2) 089 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m38s677ms (2) 089 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m38s678ms (2) 089 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m40s119ms (2) 089 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m40s127ms (2) 089 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m40s130ms (2) 089 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m40s130ms (2) 089 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m45s667ms (2) 089 temp=330
+          +3m48s336ms (2) 089 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +3m48s342ms (2) 089 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +3m48s343ms (2) 089 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +3m48s343ms (2) 089 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +4m36s619ms (1) 089 +wifi_scan
+          +4m38s367ms (2) 089 -wifi_scan +wake_lock_in=1001:"RILJ"
+          +4m38s437ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +4m38s438ms (2) 089 +wake_lock_in=1001:"RILJ"
+          +4m38s441ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +4m38s461ms (2) 089 +wake_lock_in=1001:"RILJ"
+          +4m38s467ms (2) 089 -wake_lock_in=1001:"RILJ"
+          +4m38s545ms (2) 089 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +4m38s547ms (2) 089 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +4m38s646ms (2) 089 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +4m38s647ms (2) 089 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +4m40s135ms (2) 089 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +4m40s145ms (2) 089 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +4m40s146ms (2) 089 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +4m40s146ms (2) 089 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +4m48s336ms (2) 089 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +4m48s340ms (2) 089 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +4m48s340ms (2) 089 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +4m48s341ms (2) 089 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +5m05s674ms (2) 088 volt=8349
+                 Details: cpu=1500u+1780s
+                          /proc/stat=1730 usr, 1620 sys, 0 io, 0 irq, 20 sirq, 14960 idle (18.4% of 3m 3s 300ms)
+          +5m05s688ms (2) 088 stats=0:"battery-level"
+          +5m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m38s550ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m38s646ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m38s646ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +5m40s150ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +5m40s161ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +5m40s161ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +5m40s161ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +5m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +5m48s339ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +5m48s342ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +5m48s342ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +6m36s629ms (1) 088 +wifi_scan
+          +6m38s363ms (2) 088 -wifi_scan +wake_lock_in=1001:"RILJ"
+          +6m38s434ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +6m38s435ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +6m38s438ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +6m38s458ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +6m38s463ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +6m38s546ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m38s558ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m38s663ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m38s663ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +6m40s164ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +6m40s176ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +6m40s176ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +6m40s177ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +6m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +6m48s343ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +6m48s344ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +6m48s344ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +7m20s490ms (2) 088 brightness=dim
+          +7m29s380ms (2) 088 +wake_lock_in=1013:"AudioMix"
+          +7m30s078ms (2) 088 +wake_lock_in=u0a95:"*vibrator*"
+          +7m30s111ms (2) 088 -wake_lock_in=u0a95:"*vibrator*"
+          +7m30s168ms (2) 088 +wake_lock_in=u0a95:"*launch*"
+          +7m30s175ms (2) 088 -top=u0a157:"com.borui.littlejane"
+          +7m30s175ms (2) 088 +top=u0a95:"com.android.systemui"
+          +7m30s208ms (2) 088 +wake_lock_in=u0a95:"*vibrator*"
+          +7m30s242ms (2) 088 -wake_lock_in=u0a95:"*vibrator*"
+          +7m30s245ms (2) 088 -gps +wake_lock_in=1000:"GpsLocationProvider"
+          +7m30s292ms (2) 088 -wake_lock_in=1000:"GpsLocationProvider"
+          +7m30s578ms (2) 088 -wake_lock_in=u0a95:"*launch*"
+          +7m33s096ms (2) 088 -wake_lock_in=1013:"AudioMix"
+          +7m35s919ms (2) 088 +wake_lock_in=u0a87:"*launch*"
+          +7m35s920ms (2) 088 -top=u0a95:"com.android.systemui"
+          +7m35s920ms (2) 088 +top=u0a87:"com.tct.launcher"
+          +7m36s090ms (2) 088 -wake_lock_in=u0a87:"*launch*"
+          +7m37s594ms (2) 088 +wake_lock_in=u0a87:"*vibrator*"
+          +7m37s626ms (2) 088 -wake_lock_in=u0a87:"*vibrator*"
+          +7m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m38s552ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m38s677ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m38s677ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +7m38s710ms (2) 088 +wake_lock_in=u0a157:"*launch*"
+          +7m38s721ms (2) 088 -top=u0a87:"com.tct.launcher"
+          +7m38s721ms (2) 088 +top=u0a157:"com.borui.littlejane"
+          +7m38s841ms (2) 088 -wake_lock_in=u0a157:"*launch*"
+          +7m38s884ms (2) 088 +gps +wake_lock_in=1000:"GpsLocationProvider"
+          +7m38s894ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +7m38s900ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +7m38s903ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +7m38s908ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +7m38s943ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +7m38s949ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +7m39s770ms (2) 088 -wake_lock_in=1000:"GpsLocationProvider"
+          +7m40s181ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +7m40s196ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +7m40s197ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +7m40s197ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +7m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +7m48s341ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +7m48s342ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +7m48s342ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +8m00s697ms (2) 088 brightness=dark
+          +8m13s517ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +8m13s537ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +8m22s569ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +8m22s600ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +8m38s548ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m38s551ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m38s693ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m38s693ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +8m40s203ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +8m40s213ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +8m40s213ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +8m40s213ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +8m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +8m48s344ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +8m48s345ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +8m48s345ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +9m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m38s558ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m38s662ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m38s663ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +9m40s219ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +9m40s230ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +9m40s230ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +9m40s231ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +9m40s635ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +9m40s641ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +9m40s643ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +9m40s648ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +9m40s671ms (2) 088 +wake_lock_in=1001:"RILJ"
+          +9m40s677ms (2) 088 -wake_lock_in=1001:"RILJ"
+          +9m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +9m48s340ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +9m48s343ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+          +9m48s343ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +10m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m38s558ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m38s659ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m38s660ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +10m40s234ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +10m40s245ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +10m40s245ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +10m40s246ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +10m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +10m48s344ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +10m48s344ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +10m48s344ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +11m38s545ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m38s548ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m38s664ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m38s664ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +11m40s251ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +11m40s262ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +11m40s263ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +11m40s263ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +11m40s725ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +11m40s732ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +11m40s733ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +11m40s739ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +11m40s764ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +11m40s769ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +11m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +11m48s344ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +11m48s344ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +11m48s344ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +12m05s705ms (2) 088 temp=320 volt=8348
+         +12m38s546ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m38s559ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m38s661ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m38s661ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +12m40s268ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +12m40s279ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +12m40s280ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +12m40s280ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +12m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +12m48s344ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +12m48s344ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +12m48s345ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +13m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m38s550ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m38s676ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m38s676ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +13m40s285ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +13m40s295ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +13m40s296ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +13m40s296ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +13m40s841ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +13m40s846ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +13m40s847ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +13m40s851ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +13m40s872ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +13m40s877ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +13m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +13m48s341ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +13m48s342ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +13m48s342ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +14m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +14m38s550ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +14m38s667ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +14m38s668ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +14m40s300ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +14m40s310ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +14m40s311ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +14m40s311ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +14m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +14m48s342ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +14m48s342ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +14m48s342ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +15m38s547ms (2) 088 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m38s550ms (2) 088 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m38s658ms (2) 088 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m38s658ms (2) 088 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +15m38s909ms (2) 088 stats=0:"write"
+         +15m39s546ms (2) 088 +alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +15m39s553ms (2) 088 +wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +15m39s559ms (2) 088 -alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +15m39s560ms (2) 088 -wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +15m40s313ms (2) 088 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +15m40s323ms (2) 088 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +15m40s324ms (2) 088 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +15m40s324ms (2) 088 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +15m40s882ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +15m40s889ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +15m40s890ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +15m40s893ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +15m40s912ms (2) 088 +wake_lock_in=1001:"RILJ"
+         +15m40s918ms (2) 088 -wake_lock_in=1001:"RILJ"
+         +15m48s336ms (2) 088 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +15m48s342ms (2) 088 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +15m48s342ms (2) 088 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +15m48s343ms (2) 088 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +15m55s723ms (2) 087 volt=8349
+                 Details: cpu=70460u+95220s
+                          /proc/stat=72120 usr, 71300 sys, 210 io, 0 irq, 1000 sirq, 811080 idle (15.1% of 2h 39m 17s 100ms)
+         +15m55s743ms (2) 087 stats=0:"battery-level"
+         +16m05s721ms (2) 086
+                 Details: cpu=990u+1840s
+                          /proc/stat=990 usr, 1260 sys, 0 io, 0 irq, 10 sirq, 14510 idle (13.5% of 2m 47s 700ms)
+         +16m05s758ms (2) 086 stats=0:"battery-level"
+         +16m38s545ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +16m38s549ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +16m38s666ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +16m38s667ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +16m40s329ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +16m40s347ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +16m40s349ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +16m40s349ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +16m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +16m48s347ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +16m48s347ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +16m48s349ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +17m38s546ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m38s686ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m38s686ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +17m40s351ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +17m40s361ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +17m40s362ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +17m40s362ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +17m40s963ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +17m40s969ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +17m40s970ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +17m40s973ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +17m40s994ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +17m40s999ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +17m48s304ms (2) 086 +alarm=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +17m48s306ms (2) 086 +wake_lock_in=1000:"NetworkStats"
+         +17m48s313ms (2) 086 +wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +17m48s337ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +17m48s340ms (2) 086 -wake_lock_in=1000:"NetworkStats"
+         +17m48s343ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +17m48s346ms (2) 086 -alarm=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +17m48s346ms (2) 086 -wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +17m50s633ms (2) 086 +alarm=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +17m50s639ms (2) 086 +wake_lock_in=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +17m50s649ms (2) 086 -alarm=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +17m50s649ms (2) 086 -wake_lock_in=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +18m25s750ms (2) 086 temp=310 volt=8348
+         +18m38s548ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m38s558ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m38s667ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m38s668ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +18m40s366ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +18m40s376ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +18m40s377ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +18m40s377ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +18m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +18m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +18m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +18m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +19m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +19m38s558ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +19m38s644ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +19m38s644ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +19m40s382ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +19m40s393ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +19m40s393ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +19m40s393ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +19m41s043ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +19m41s049ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +19m41s050ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +19m41s053ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +19m41s072ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +19m41s077ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +19m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +19m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +19m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +19m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +20m03s339ms (2) 086 +alarm=u0a141:"*alarm*:sogou.action.auto.excute.for.one.hour"
+         +20m03s344ms (2) 086 +wake_lock_in=u0a141:"*alarm*:sogou.action.auto.excute.for.one.hour"
+         +20m03s361ms (2) 086 -alarm=u0a141:"*alarm*:sogou.action.auto.excute.for.one.hour"
+         +20m03s361ms (2) 086 -wake_lock_in=u0a141:"*alarm*:sogou.action.auto.excute.for.one.hour"
+         +20m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m38s659ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m38s659ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +20m40s398ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +20m40s408ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +20m40s409ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +20m40s409ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +20m45s749ms (2) 086 volt=8304
+         +20m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +20m48s338ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +20m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +20m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +21m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +21m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +21m38s664ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +21m38s664ms (2) 086 +wifi_scan -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +21m40s413ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +21m40s423ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +21m40s424ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +21m40s424ms (2) 086 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +21m41s101ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +21m41s106ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +21m41s107ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +21m41s111ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +21m41s132ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +21m41s137ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +21m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +21m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +21m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +21m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +22m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m38s548ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m38s649ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m38s649ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +22m40s428ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +22m40s438ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +22m40s439ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +22m40s439ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +22m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +22m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +22m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +22m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +23m38s546ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m38s653ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m38s654ms (2) 086 +wifi_scan -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +23m40s441ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +23m40s445ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +23m40s449ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +23m40s450ms (2) 086 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +23m41s176ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +23m41s182ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +23m41s183ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +23m41s186ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +23m41s206ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +23m41s211ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +23m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +23m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +23m48s343ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +23m48s344ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +24m38s545ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +24m38s547ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +24m38s663ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +24m38s663ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +24m40s456ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +24m40s466ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +24m40s467ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +24m40s467ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +24m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +24m48s350ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +24m48s351ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +24m48s351ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +25m25s769ms (2) 086 temp=300
+         +25m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m38s643ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m38s643ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +25m40s470ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +25m40s483ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +25m40s483ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +25m40s484ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +25m41s271ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +25m41s278ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +25m41s279ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +25m41s282ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +25m41s303ms (2) 086 +wake_lock_in=1001:"RILJ"
+         +25m41s310ms (2) 086 -wake_lock_in=1001:"RILJ"
+         +25m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +25m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +25m48s339ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +25m48s339ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +26m38s547ms (2) 086 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +26m38s550ms (2) 086 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +26m38s652ms (2) 086 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +26m38s652ms (2) 086 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +26m40s488ms (2) 086 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +26m40s498ms (2) 086 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +26m40s500ms (2) 086 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +26m40s500ms (2) 086 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +26m48s336ms (2) 086 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +26m48s339ms (2) 086 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +26m48s342ms (2) 086 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +26m48s343ms (2) 086 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +26m55s769ms (2) 085 temp=310 volt=8305
+                 Details: cpu=21330u+30980s
+                          /proc/stat=22110 usr, 21800 sys, 50 io, 0 irq, 290 sirq, 287050 idle (13.4% of 55m 13s 0ms)
+         +26m55s788ms (2) 085 stats=0:"battery-level"
+         +27m38s546ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m38s549ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m38s647ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m38s648ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +27m40s502ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +27m40s513ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +27m40s514ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +27m40s514ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +27m41s354ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +27m41s360ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +27m41s361ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +27m41s364ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +27m41s387ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +27m41s392ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +27m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +27m48s343ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +27m48s344ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +27m48s344ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +28m05s772ms (2) 085 temp=300 volt=8304
+         +28m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m38s550ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m38s652ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m38s652ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +28m40s519ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +28m40s525ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +28m40s528ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +28m40s528ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +28m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +28m48s342ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +28m48s342ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +28m48s343ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +29m38s545ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m38s557ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m38s626ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m38s627ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +29m40s537ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +29m40s548ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +29m40s549ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +29m40s549ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +29m41s413ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +29m41s418ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +29m41s419ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +29m41s423ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +29m41s444ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +29m41s450ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +29m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +29m48s342ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +29m48s343ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +29m48s343ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +30m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m38s554ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m38s654ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m38s655ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +30m39s547ms (2) 085 +alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +30m39s561ms (2) 085 +wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +30m39s570ms (2) 085 -alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +30m39s570ms (2) 085 -wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +30m40s552ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +30m40s563ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +30m40s563ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +30m40s564ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +30m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +30m48s343ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +30m48s344ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +30m48s344ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +31m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m38s557ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m38s661ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m38s661ms (2) 085 +wifi_scan -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +31m40s568ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +31m40s579ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +31m40s580ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +31m40s580ms (2) 085 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +31m41s435ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +31m41s441ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +31m41s442ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +31m41s445ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +31m41s469ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +31m41s474ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +31m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +31m48s343ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +31m48s344ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +31m48s344ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +32m38s548ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m38s551ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m38s698ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m38s698ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +32m40s584ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +32m40s595ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +32m40s596ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +32m40s596ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +32m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +32m48s343ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +32m48s343ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +32m48s343ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +33m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m38s550ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m38s662ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m38s662ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +33m39s701ms (2) 085 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +33m40s613ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +33m40s613ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +33m40s613ms (2) 085 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +33m41s524ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +33m41s530ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +33m41s531ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +33m41s534ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +33m41s554ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +33m41s559ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +33m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +33m48s339ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +33m48s342ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +33m48s342ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +34m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m38s558ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m38s660ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m38s660ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +34m40s620ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +34m40s638ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +34m40s638ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +34m40s639ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +34m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +34m48s338ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +34m48s339ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +34m48s339ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +35m38s545ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m38s557ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m38s672ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m38s673ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +35m39s805ms (2) 085 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +35m40s650ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +35m40s650ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +35m40s650ms (2) 085 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +35m41s637ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +35m41s643ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +35m41s644ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +35m41s647ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +35m41s669ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +35m41s674ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +35m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +35m48s342ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +35m48s342ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +35m48s342ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +36m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m38s551ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m38s644ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m38s644ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +36m40s659ms (2) 085 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +36m40s678ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +36m40s679ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +36m40s679ms (2) 085 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +36m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +36m48s339ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +36m48s342ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +36m48s342ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +37m12s254ms (2) 085 brightness=dim
+         +37m38s547ms (2) 085 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m38s550ms (2) 085 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m38s659ms (2) 085 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m38s659ms (2) 085 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +37m39s879ms (2) 085 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +37m40s692ms (2) 085 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +37m40s693ms (2) 085 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +37m40s693ms (2) 085 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +37m41s698ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +37m41s704ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +37m41s705ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +37m41s707ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +37m41s729ms (2) 085 +wake_lock_in=1001:"RILJ"
+         +37m41s735ms (2) 085 -wake_lock_in=1001:"RILJ"
+         +37m48s336ms (2) 085 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +37m48s343ms (2) 085 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +37m48s343ms (2) 085 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +37m48s344ms (2) 085 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +37m55s781ms (2) 084 volt=8261
+                 Details: cpu=53750u+82300s
+                          /proc/stat=56910 usr, 58320 sys, 50 io, 0 irq, 930 sirq, 780260 idle (13.0% of 2h 29m 24s 700ms)
+         +37m55s796ms (2) 084 stats=0:"battery-level"
+         +38m38s545ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m38s559ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m38s678ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m38s678ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +38m40s697ms (2) 084 +alarm=1000:"*walarm*:salestracker.check"
+         +38m40s703ms (2) 084 +wake_lock_in=1000:"*walarm*:salestracker.check"
+         +38m40s703ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +38m40s704ms (2) 084 +alarm=u0a139:"*alarm*:cn.andouya/com.pingstart.adsdk.OptimizeService"
+         +38m40s730ms (2) 084 +proc=u0a139:"cn.andouya"
+         +38m40s732ms (2) 084 -alarm=u0a139:"*alarm*:cn.andouya/com.pingstart.adsdk.OptimizeService"
+         +38m40s801ms (2) 084 -alarm=1000:"*walarm*:salestracker.check"
+         +38m40s801ms (2) 084 +wake_lock_in=1001:"*alarm*"
+         +38m40s801ms (2) 084 -wake_lock_in=1000:"*walarm*:salestracker.check"
+         +38m40s805ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +38m40s805ms (2) 084 -wake_lock_in=1001:"*alarm*"
+         +38m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +38m48s349ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +38m48s349ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +38m48s349ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +39m38s547ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m38s550ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m38s645ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m38s646ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +39m39s940ms (2) 084 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +39m40s820ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +39m40s821ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +39m40s821ms (2) 084 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +39m41s772ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +39m41s777ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +39m41s779ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +39m41s782ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +39m41s805ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +39m41s812ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +39m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +39m48s339ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +39m48s339ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +39m48s339ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +40m38s547ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m38s558ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m38s657ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m38s657ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +40m40s823ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +40m40s834ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +40m40s834ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +40m40s834ms (2) 084 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +40m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +40m48s343ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +40m48s344ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +40m48s344ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +41m25s778ms (2) 084 temp=310 volt=8260
+         +41m38s546ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m38s558ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m38s673ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m38s673ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +41m39s966ms (2) 084 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +41m40s850ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +41m40s852ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +41m40s852ms (2) 084 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +41m41s803ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +41m41s809ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +41m41s810ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +41m41s813ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +41m41s838ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +41m41s843ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +41m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +41m48s343ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +41m48s343ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +41m48s343ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +42m20s109ms (2) 084 brightness=medium
+         +42m29s078ms (2) 084 brightness=dark
+         +42m38s547ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m38s555ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m38s668ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m38s668ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +42m40s857ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +42m40s869ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +42m40s870ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +42m40s870ms (2) 084 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +42m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +42m48s347ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +42m48s347ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +42m48s347ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +43m38s545ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m38s549ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m38s673ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m38s673ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +43m40s066ms (2) 084 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +43m40s887ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +43m40s887ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +43m40s887ms (2) 084 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +43m41s882ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +43m41s890ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +43m41s891ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +43m41s894ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +43m41s913ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +43m41s918ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +43m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +43m48s343ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +43m48s343ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +43m48s344ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +44m38s546ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +44m38s550ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +44m38s669ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +44m38s669ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +44m40s891ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +44m40s897ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +44m40s902ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +44m40s902ms (2) 084 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +44m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +44m48s343ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +44m48s344ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +44m48s344ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +45m38s548ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m38s551ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m38s664ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m38s664ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +45m38s934ms (2) 084 stats=0:"write"
+         +45m39s546ms (2) 084 +alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +45m39s552ms (2) 084 +wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +45m39s558ms (2) 084 -alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +45m39s558ms (2) 084 +wifi_scan -wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+         +45m40s911ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +45m40s922ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +45m40s922ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +45m40s923ms (2) 084 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +45m41s982ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +45m41s988ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +45m41s989ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +45m41s992ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +45m42s013ms (2) 084 +wake_lock_in=1001:"RILJ"
+         +45m42s020ms (2) 084 -wake_lock_in=1001:"RILJ"
+         +45m48s335ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +45m48s342ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +45m48s343ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +45m48s343ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +46m38s547ms (2) 084 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +46m38s558ms (2) 084 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +46m38s679ms (2) 084 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +46m38s679ms (2) 084 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +46m40s927ms (2) 084 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +46m40s938ms (2) 084 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +46m40s938ms (2) 084 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +46m40s938ms (2) 084 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +46m48s336ms (2) 084 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +46m48s339ms (2) 084 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +46m48s342ms (2) 084 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +46m48s342ms (2) 084 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +47m15s790ms (2) 083 volt=8261
+                 Details: cpu=39490u+60270s
+                          /proc/stat=40660 usr, 44200 sys, 40 io, 0 irq, 620 sirq, 557440 idle (13.3% of 1h 47m 9s 600ms)
+         +47m15s832ms (2) 083 stats=0:"battery-level"
+         +47m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m38s551ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m38s690ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m38s690ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +47m40s210ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +47m40s952ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +47m40s952ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +47m40s953ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +47m41s958ms (2) 083 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +47m42s047ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +47m42s048ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +47m42s051ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +47m42s071ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +47m42s076ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +47m48s304ms (2) 083 +alarm=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +47m48s306ms (2) 083 +wake_lock_in=1000:"NetworkStats"
+         +47m48s311ms (2) 083 +wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +47m48s329ms (2) 083 -wake_lock_in=1000:"NetworkStats"
+         +47m48s339ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +47m48s340ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +47m48s345ms (2) 083 -alarm=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +47m48s345ms (2) 083 -wake_lock_in=1000:"*alarm*:com.android.server.action.NETWORK_STATS_POLL"
+         +47m50s633ms (2) 083 +alarm=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +47m50s641ms (2) 083 +wake_lock_in=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +47m50s649ms (2) 083 -alarm=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +47m50s649ms (2) 083 -wake_lock_in=1000:"*walarm*:android.appwidget.action.APPWIDGET_UPDATE"
+         +48m25s781ms (2) 083 temp=320 volt=8260
+         +48m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m38s645ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m38s646ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +48m40s957ms (2) 083 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +48m40s962ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +48m40s965ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +48m40s965ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +48m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +48m48s343ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +48m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +48m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +49m38s545ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m38s549ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m38s652ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m38s652ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +49m40s308ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +49m40s986ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +49m40s986ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +49m40s987ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +49m42s050ms (2) 083 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +49m42s108ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +49m42s111ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +49m42s114ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +49m42s135ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +49m42s143ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +49m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +49m48s342ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +49m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +49m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +50m38s548ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m38s557ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m38s663ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m38s663ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +50m40s245ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +50m41s012ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +50m41s013ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +50m41s014ms (2) 083 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +50m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +50m48s343ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +50m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +50m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +51m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m38s557ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m38s674ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m38s674ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +51m40s339ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +51m41s041ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +51m41s041ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +51m41s041ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +51m42s085ms (2) 083 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +51m42s148ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +51m42s150ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +51m42s154ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +51m42s177ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +51m42s183ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +51m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +51m48s339ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +51m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +51m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +52m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m38s667ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m38s668ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +52m41s046ms (2) 083 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +52m41s050ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +52m41s055ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +52m41s056ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +52m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +52m48s339ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +52m48s342ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +52m48s342ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +53m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m38s558ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m38s668ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m38s669ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +53m40s409ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +53m41s078ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +53m41s081ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +53m41s081ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +53m42s152ms (2) 083 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +53m42s237ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +53m42s238ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +53m42s242ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +53m42s261ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +53m42s266ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +53m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +53m48s343ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +53m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +53m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +54m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m38s651ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m38s651ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +54m41s086ms (2) 083 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +54m41s099ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +54m41s107ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +54m41s107ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +54m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +54m48s339ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +54m48s342ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +54m48s342ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +55m38s545ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m38s549ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m38s665ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m38s665ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +55m40s348ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +55m41s124ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +55m41s126ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +55m41s126ms (2) 083 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +55m42s149ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +55m42s155ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +55m42s156ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +55m42s160ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +55m42s183ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +55m42s188ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +55m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +55m48s339ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +55m48s339ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +55m48s339ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +56m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +56m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +56m38s648ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +56m38s648ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +56m41s131ms (2) 083 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +56m41s142ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +56m41s142ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +56m41s142ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +56m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +56m48s340ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +56m48s343ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +56m48s343ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +57m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m38s648ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m38s648ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +57m40s579ms (2) 083 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +57m41s157ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +57m41s157ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +57m41s157ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +57m42s319ms (2) 083 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +57m42s389ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +57m42s390ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +57m42s393ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +57m42s411ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +57m42s416ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +57m45s785ms (2) 083 temp=330
+         +57m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +57m48s341ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +57m48s342ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +57m48s342ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +58m14s909ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +58m14s938ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +58m23s703ms (2) 083 +wake_lock_in=1001:"RILJ"
+         +58m23s729ms (2) 083 -wake_lock_in=1001:"RILJ"
+         +58m38s547ms (2) 083 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m38s550ms (2) 083 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m38s670ms (2) 083 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m38s670ms (2) 083 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +58m41s164ms (2) 083 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +58m41s179ms (2) 083 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +58m41s181ms (2) 083 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +58m41s182ms (2) 083 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +58m48s336ms (2) 083 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +58m48s338ms (2) 083 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +58m48s339ms (2) 083 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +58m48s339ms (2) 083 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +59m05s786ms (2) 082 volt=8261
+                 Details: cpu=13630u+21420s
+                          /proc/stat=14170 usr, 16490 sys, 0 io, 0 irq, 200 sirq, 223000 idle (12.2% of 42m 18s 600ms)
+         +59m05s804ms (2) 082 stats=0:"battery-level"
+         +59m38s547ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m38s550ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m38s656ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m38s657ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+         +59m40s655ms (2) 082 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +59m41s191ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +59m41s193ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +59m41s193ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+         +59m42s389ms (2) 082 -wifi_scan +wake_lock_in=1001:"RILJ"
+         +59m42s469ms (2) 082 -wake_lock_in=1001:"RILJ"
+         +59m42s470ms (2) 082 +wake_lock_in=1001:"RILJ"
+         +59m42s473ms (2) 082 -wake_lock_in=1001:"RILJ"
+         +59m42s492ms (2) 082 +wake_lock_in=1001:"RILJ"
+         +59m42s499ms (2) 082 -wake_lock_in=1001:"RILJ"
+         +59m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +59m48s339ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +59m48s342ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+         +59m48s342ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h00m38s547ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m38s550ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m38s643ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m38s644ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h00m39s545ms (2) 082 +alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+       +1h00m39s551ms (2) 082 +wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+       +1h00m39s557ms (2) 082 -alarm=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+       +1h00m39s558ms (2) 082 +wifi_scan -wake_lock_in=u0a107:"*alarm*:com.android.deskclock.ON_QUARTER_HOUR"
+       +1h00m41s202ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h00m41s218ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h00m41s219ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h00m41s219ms (2) 082 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h00m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h00m48s339ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h00m48s342ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h00m48s342ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h01m38s546ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m38s551ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m38s671ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m38s671ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h01m40s668ms (2) 082 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h01m41s233ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h01m41s236ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h01m41s236ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h01m42s416ms (2) 082 -wifi_scan +wake_lock_in=1001:"RILJ"
+       +1h01m42s500ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h01m42s501ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h01m42s504ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h01m42s523ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h01m42s529ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h01m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h01m48s343ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h01m48s343ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h01m48s344ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h02m38s548ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m38s551ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m38s646ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m38s647ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h02m41s239ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h02m41s250ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h02m41s251ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h02m41s251ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h02m48s335ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h02m48s341ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h02m48s342ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h02m48s342ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h03m38s547ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m38s558ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m38s673ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m38s673ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h03m40s753ms (2) 082 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h03m41s265ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h03m41s266ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h03m41s266ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h03m42s500ms (2) 082 -wifi_scan +wake_lock_in=1001:"RILJ"
+       +1h03m42s583ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h03m42s585ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h03m42s588ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h03m42s610ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h03m42s616ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h03m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h03m48s339ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h03m48s342ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h03m48s342ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h04m33s768ms (2) 082 phone_signal_strength=great
+       +1h04m38s547ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h04m38s552ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h04m38s648ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h04m38s648ms (3) 082 phone_signal_strength=fully -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h04m41s269ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h04m41s281ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h04m41s282ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h04m41s282ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h04m44s011ms (2) 082 phone_signal_strength=great
+       +1h04m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h04m48s341ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h04m48s341ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h04m48s341ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h04m55s786ms (2) 082 volt=8218
+       +1h05m14s731ms (2) 082 phone_signal_strength=fully
+       +1h05m19s857ms (2) 082 phone_signal_strength=great
+       +1h05m34s920ms (2) 082 phone_signal_strength=fully brightness=dim
+       +1h05m38s546ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m38s559ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m38s666ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m38s666ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h05m40s541ms (2) 082 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h05m41s306ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h05m41s307ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h05m41s308ms (2) 082 -wifi_scan -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h05m42s354ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h05m42s359ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h05m42s361ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h05m42s364ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h05m42s385ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h05m42s390ms (3) 082 brightness=light -wake_lock_in=1001:"RILJ"
+       +1h05m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h05m48s342ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h05m48s343ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h05m48s343ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h06m14s527ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h06m14s557ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h06m14s574ms (2) 082 stats=0:"battery-state"
+       +1h06m14s584ms (4) 082 status=charging plug=usb volt=8202 +plugged +proc=u0a117:"com.mediatek.mtklogger"
+       +1h06m25s064ms (2) 082 -proc=u0a117:"com.mediatek.mtklogger"
+       +1h06m38s546ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m38s550ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m38s678ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m38s679ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h06m41s311ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h06m41s323ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h06m41s323ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h06m41s323ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h06m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h06m48s342ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h06m48s342ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h06m48s342ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h07m38s545ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m38s548ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m38s662ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m38s662ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h07m40s914ms (2) 082 +wifi_scan +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h07m41s338ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h07m41s338ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h07m41s339ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h07m42s665ms (2) 082 -wifi_scan +wake_lock_in=1001:"RILJ"
+       +1h07m42s720ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h07m42s725ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h07m42s729ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h07m42s750ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h07m42s756ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h07m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h07m48s339ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h07m48s339ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h07m48s339ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h08m14s877ms (2) 082 volt=8258
+       +1h08m38s545ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m38s549ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m38s653ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m38s653ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h08m41s343ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h08m41s353ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h08m41s353ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h08m41s354ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h08m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h08m48s339ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h08m48s339ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h08m48s339ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h09m29s583ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m29s596ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m29s621ms (2) 082 stats=0:"battery-state"
+       +1h09m29s635ms (4) 082 status=not-charging plug=none temp=320 volt=8264 -plugged +proc=1000:"com.fw.upgrade.sysoper"
+       +1h09m29s934ms (2) 082 -proc=1000:"com.fw.upgrade.sysoper"
+       +1h09m30s244ms (2) 082 +wake_lock_in=1000:"*vibrator*"
+       +1h09m30s276ms (2) 082 -wake_lock_in=1000:"*vibrator*"
+       +1h09m30s356ms (2) 082 +wake_lock_in=u0a87:"*launch*"
+       +1h09m30s360ms (2) 082 -top=u0a157:"com.borui.littlejane"
+       +1h09m30s360ms (2) 082 +top=u0a87:"com.tct.launcher"
+       +1h09m30s450ms (2) 082 -gps +wake_lock_in=1000:"GpsLocationProvider"
+       +1h09m30s457ms (2) 082 -wake_lock_in=1000:"GpsLocationProvider"
+       +1h09m30s570ms (2) 082 +proc=u0a117:"com.mediatek.mtklogger"
+       +1h09m30s833ms (2) 082 -wake_lock_in=u0a87:"*launch*"
+       +1h09m30s834ms (2) 082 -proc=u0a95:"com.android.systemui:screenshot"
+       +1h09m31s966ms (2) 082 +wake_lock_in=1000:"*launch*"
+       +1h09m31s978ms (2) 082 -top=u0a87:"com.tct.launcher"
+       +1h09m31s978ms (2) 082 +top=1000:"com.android.settings"
+       +1h09m32s164ms (2) 082 -wake_lock_in=1000:"*launch*"
+       +1h09m33s128ms (2) 082 +wake_lock_in=1000:"*launch*"
+       +1h09m33s184ms (2) 082 stats=0:"get-stats"
+       +1h09m33s363ms (2) 082 -wake_lock_in=1000:"*launch*"
+       +1h09m36s373ms (2) 082 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m36s427ms (3) 082 brightness=dim +proc=u0a95:"com.android.systemui:screenshot"
+       +1h09m37s210ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m38s546ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m38s549ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m38s645ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m38s645ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h09m38s847ms (2) 082 -proc=u0a74:"android.process.acore"
+       +1h09m40s765ms (2) 082 -proc=u0a117:"com.mediatek.mtklogger"
+       +1h09m40s945ms (2) 082 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m41s357ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h09m41s365ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h09m41s366ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h09m41s366ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h09m41s526ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m43s104ms (2) 082 +wake_lock_in=1000:"*launch*"
+       +1h09m43s321ms (2) 082 -wake_lock_in=1000:"*launch*"
+       +1h09m44s571ms (2) 082 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m45s080ms (2) 082 +wake_lock_in=1000:"*vibrator*"
+       +1h09m45s164ms (2) 082 -wake_lock_in=1000:"*vibrator*"
+       +1h09m45s768ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m48s135ms (2) 082 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m48s336ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h09m48s342ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h09m48s343ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h09m48s343ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h09m48s499ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m48s500ms (2) 082 +wake_lock_in=1000:"ActivityManager-Sleep"
+       +1h09m48s597ms (3) 082 -screen -wake_lock_in=1000:"ActivityManager-Sleep"
+       +1h09m49s039ms (3) 082 -wake_lock brightness=dark -wake_lock_in=-1:"screen"
+       +1h09m49s117ms (3) 082 +wake_lock=1001:"RILJ" +wake_lock_in=1001:"RILJ"
+       +1h09m49s153ms (2) 082 -wake_lock -wake_lock_in=1001:"RILJ"
+       +1h09m49s559ms (3) 082 +wake_lock=u0a95:"show keyguard" +wake_lock_in=u0a95:"show keyguard"
+       +1h09m49s572ms (2) 082 +wake_lock_in=1000:"WifiSuspend"
+       +1h09m49s599ms (2) 082 -wake_lock_in=1000:"WifiSuspend"
+       +1h09m49s614ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m49s625ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m49s695ms (2) 082 -wake_lock -wake_lock_in=u0a95:"show keyguard"
+       +1h09m49s968ms (3) 082 +wake_lock=1000:"PhoneWindowManager.mPowerKeyWakeLock" +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m49s974ms (3) 082 +screen screenwake=1000:"android.policy:POWER"
+       +1h09m49s975ms (2) 082 +wake_lock_in=-1:"screen"
+       +1h09m49s989ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s000ms (3) 082 brightness=dim -wake_lock_in=1001:"RILJ"
+       +1h09m50s021ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s060ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m50s063ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s086ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m50s139ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s148ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m50s153ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s171ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m50s174ms (2) 082 +wake_lock_in=1001:"ServiceStateTracker"
+       +1h09m50s174ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m50s178ms (2) 082 -wake_lock_in=1001:"ServiceStateTracker"
+       +1h09m50s181ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m50s187ms (9) TIME: 2018-07-05-13-54-25
+       +1h09m50s189ms (2) 082 volt=4132 -wake_lock_in=1001:"RILJ"
+       +1h09m50s479ms (2) 082 +proc=u0a73:"com.android.providers.calendar"
+       +1h09m50s495ms (2) 082 +wake_lock_in=u0a107:"AlarmClock"
+       +1h09m50s540ms (2) 082 -wake_lock_in=u0a107:"AlarmClock"
+       +1h09m50s580ms (2) 082 +proc=u0a109:"com.mediatek.providers.drm"
+       +1h09m50s777ms (2) 082 +proc=u0a123:"com.tct.note"
+       +1h09m50s933ms (2) 082 +proc=1000:"com.mediatek.schpwronoff"
+       +1h09m50s983ms (2) 082 -proc=u0a139:"cn.andouya"
+       +1h09m51s097ms (2) 082 +proc=u0a140:"com.tclmarket"
+       +1h09m51s208ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h09m51s215ms (2) 082 -wake_lock_in=1001:"RILJ"
+       +1h09m51s499ms (2) 082 -proc=u0a140:"com.tclmarket"
+       +1h09m51s511ms (2) 082 +proc=u0a74:"android.process.acore"
+       +1h09m52s632ms (2) 082 +wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m53s324ms (2) 082 -wake_lock_in=1000:"PhoneWindowManager.mPowerKeyWakeLock"
+       +1h09m54s990ms (2) 082 +alarm=1000:"*walarm*:AUTO_KILL"
+       +1h09m54s992ms (2) 082 +wake_lock_in=1000:"*walarm*:AUTO_KILL"
+       +1h09m54s992ms (2) 082 -alarm=1000:"*walarm*:AUTO_KILL"
+       +1h09m54s992ms (2) 082 -wake_lock_in=1000:"*walarm*:AUTO_KILL"
+       +1h09m54s994ms (2) 082 +wake_lock_in=1000:"Boost"
+       +1h09m54s996ms (2) 082 -wake_lock_in=1000:"Boost"
+       +1h09m57s097ms (2) 082 +wake_lock_in=1000:"*vibrator*"
+       +1h09m57s129ms (2) 082 -wake_lock_in=1000:"*vibrator*"
+       +1h09m57s261ms (2) 082 +wake_lock_in=u0a87:"*launch*"
+       +1h09m57s263ms (2) 082 -top=1000:"com.android.settings"
+       +1h09m57s263ms (2) 082 +top=u0a87:"com.tct.launcher"
+       +1h09m57s511ms (2) 082 -wake_lock_in=u0a87:"*launch*"
+       +1h10m02s779ms (2) 082 +wake_lock_in=1001:"RILJ"
+       +1h10m02s783ms (2) 082 stats=0:"battery-state"
+       +1h10m02s816ms (4) 082 status=charging plug=usb volt=8232 +plugged -wake_lock_in=1001:"RILJ"
+       +1h10m03s037ms (2) 082 +proc=u0a117:"com.mediatek.mtklogger"
+       +1h10m04s898ms (2) 082 brightness=medium
+       +1h10m05s794ms (2) 082 brightness=light
+       +1h10m13s224ms (2) 082 -proc=u0a117:"com.mediatek.mtklogger"
+       +1h10m25s078ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m25s088ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m25s207ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m25s207ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h10m38s366ms (2) 082 +alarm=u0a134:"*walarm*:AlarmTaskSchedule.com.moji.tcl"
+       +1h10m38s371ms (2) 082 +wake_lock_in=u0a134:"*walarm*:AlarmTaskSchedule.com.moji.tcl"
+       +1h10m38s373ms (2) 082 -alarm=u0a134:"*walarm*:AlarmTaskSchedule.com.moji.tcl"
+       +1h10m38s374ms (2) 082 -wake_lock_in=u0a134:"*walarm*:AlarmTaskSchedule.com.moji.tcl"
+       +1h10m40s622ms (1) 082 +wifi_scan
+       +1h10m42s356ms (1) 082 -wifi_scan
+       +1h10m51s237ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h10m51s238ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h10m51s238ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h10m51s240ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h10m51s248ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h10m51s248ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h11m25s077ms (2) 082 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m25s088ms (2) 082 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m25s200ms (2) 082 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m25s200ms (2) 082 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+       +1h11m34s867ms (2) 082 +alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h11m34s869ms (2) 082 +wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h11m34s870ms (2) 082 -alarm=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h11m34s870ms (2) 082 -wake_lock_in=u0a132:"*alarm*:com.tcl.push.android.service.action.PUSH_SERVICE"
+       +1h11m35s311ms (2) 082 stats=0:"dump"
+       +1h11m51s253ms (2) 082 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h11m51s266ms (2) 082 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h11m51s267ms (2) 082 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h11m51s267ms (2) 082 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+       +1h11m57s984ms (2) 082 stats=0:"dump"
+
+Per-PID Stats:
+  PID 1065 wake time: +16s656ms
+  PID 2970 wake time: +2ms
+  PID 1065 wake time: +115ms
+  PID 1808 wake time: +935ms
+  PID 0 wake time: +3s716ms
+  PID 1065 wake time: +1s229ms
+  PID 1065 wake time: +443ms
+  PID 1457 wake time: +136ms
+  PID 1065 wake time: +44ms
+  PID 8256 wake time: +45ms
+  PID 1065 wake time: +84ms
+  PID 1065 wake time: +3ms
+  PID 1065 wake time: +17ms
+  PID 1065 wake time: +2ms
+  PID 1065 wake time: +254ms
+
+Discharge step durations:
+  #0: +11m49s996ms to 82 (screen-on, power-save-off, device-idle-off)
+  #1: +9m20s9ms to 83 (screen-on, power-save-off, device-idle-off)
+  #2: +11m0s12ms to 84 (screen-on, power-save-off, device-idle-off)
+  #3: +10m50s48ms to 85 (screen-on, power-save-off, device-idle-off)
+  #4: +9s998ms to 86 (screen-on, power-save-off, device-idle-off)
+  #5: +10m50s49ms to 87 (screen-on, power-save-off, device-idle-off)
+  Estimated screen on time: 15h 0m 1s 800ms 
+
+Daily stats:
+  Current start time: 2018-07-05-10-04-42
+  Next min deadline: 2018-07-06-01-00-00
+  Next max deadline: 2018-07-06-03-00-00
+  Current daily discharge step durations:
+    #0: +11m49s996ms to 82 (screen-on, power-save-off, device-idle-off)
+    #1: +9m20s9ms to 83 (screen-on, power-save-off, device-idle-off)
+    #2: +11m0s12ms to 84 (screen-on, power-save-off, device-idle-off)
+    #3: +10m50s48ms to 85 (screen-on, power-save-off, device-idle-off)
+    #4: +9s998ms to 86 (screen-on, power-save-off, device-idle-off)
+    #5: +10m50s49ms to 87 (screen-on, power-save-off, device-idle-off)
+    #6: +8m20s17ms to 88 (screen-on, power-save-off, device-idle-off)
+    #7: +8m10s32ms to 89 (screen-on, power-save-off, device-idle-off)
+    #8: +8m20s55ms to 90 (screen-on, power-save-off, device-idle-off)
+    #9: +8m10s54ms to 91 (screen-on, power-save-off, device-idle-off)
+    #10: +8m20s45ms to 92 (screen-on, power-save-off, device-idle-off)
+    #11: +8m20s49ms to 93 (screen-on, power-save-off, device-idle-off)
+    #12: +11m20s59ms to 94 (screen-on, power-save-off, device-idle-off)
+    #13: +11m30s61ms to 95 (screen-on, power-save-off, device-idle-off)
+    #14: +11m10s45ms to 96 (screen-on, power-save-off, device-idle-off)
+    #15: +11m30s61ms to 97 (screen-on, power-save-off, device-idle-off)
+    #16: +9m30s50ms to 98 (screen-on, power-save-off, device-idle-off)
+      Discharge total time: 15h 33m 23s 700ms  (from 17 steps)
+      Discharge screen on time: 15h 33m 23s 700ms  (from 17 steps)
+    Package changes:
+      Update com.qiyi.video vers=81100
+      Update com.borui.littlejane vers=4
+  Daily from 2018-07-04-11-04-37 to 2018-07-05-10-04-42:
+    Discharge step durations:
+      #0: +27m22s759ms to 91 (power-save-off, device-idle-off)
+      #1: +20m10s108ms to 92 (power-save-off, device-idle-off)
+      #2: +19m40s104ms to 93 (power-save-off, device-idle-off)
+      #3: +36m48s865ms to 94 (power-save-off, device-idle-off)
+      #4: +23m56s686ms to 95 (power-save-off, device-idle-off)
+      #5: +17m0s87ms to 96 (power-save-off, device-idle-off)
+      #6: +13m20s25ms to 98 (power-save-off, device-idle-off)
+        Discharge total time: 1d 13h 41m 34s 700ms  (from 7 steps)
+    Charge step durations:
+      #0: +1m20s7ms to 89 (screen-off, power-save-off, device-idle-off)
+      #1: +10s3ms to 88 (screen-off, power-save-off, device-idle-off)
+      #2: +1m30s12ms to 87 (screen-off, power-save-off, device-idle-off)
+      #3: +1m30s11ms to 86 (screen-off, power-save-off, device-idle-off)
+      #4: +1m30s5ms to 85 (screen-off, power-save-off, device-idle-off)
+      #5: +1m30s8ms to 84 (screen-off, power-save-off, device-idle-off)
+      #6: +1m20s8ms to 83 (screen-off, power-save-off, device-idle-off)
+      #7: +1m30s9ms to 82 (screen-off, power-save-off, device-idle-off)
+      #8: +1m30s11ms to 81 (screen-off, power-save-off, device-idle-off)
+      #9: +1m20s11ms to 80 (screen-off, power-save-off, device-idle-off)
+      #10: +1m20s8ms to 79 (screen-off, power-save-off, device-idle-off)
+      #11: +1m30s11ms to 78 (screen-off, power-save-off, device-idle-off)
+      #12: +1m20s5ms to 77 (screen-off, power-save-off, device-idle-off)
+      #13: +1m20s9ms to 76 (screen-off, power-save-off, device-idle-off)
+      #14: +1m20s12ms to 75 (screen-off, power-save-off, device-idle-off)
+      #15: +1m30s10ms to 74 (screen-off, power-save-off, device-idle-off)
+      #16: +1m20s11ms to 73 (screen-off, power-save-off, device-idle-off)
+      #17: +1m20s6ms to 72 (screen-off, power-save-off, device-idle-off)
+      #18: +1m20s3ms to 71 (screen-off, power-save-off, device-idle-off)
+      #19: +1m20s11ms to 70 (screen-off, power-save-off, device-idle-off)
+      #20: +1m20s11ms to 69 (screen-off, power-save-off, device-idle-off)
+      #21: +1m20s5ms to 68 (screen-off, power-save-off, device-idle-off)
+      #22: +1m20s9ms to 67 (screen-off, power-save-off, device-idle-off)
+      #23: +1m40s6ms to 48 (power-save-off, device-idle-off)
+      #24: +1m20s4ms to 47 (screen-off, power-save-off, device-idle-off)
+      #25: +1m20s12ms to 46 (screen-off, power-save-off, device-idle-off)
+        Charge total time: 2h 15m 16s 200ms  (from 26 steps)
+        Charge screen off time: 2h 14m 0s 800ms  (from 25 steps)
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 1h 6m 32s 115ms (92.5%) realtime, 1h 6m 32s 115ms (92.5%) uptime
+  Time on battery screen off: 936ms (0.0%) realtime, 937ms (0.0%) uptime
+  Total run time: 1h 11m 58s 83ms realtime, 1h 11m 58s 83ms uptime
+  Start clock time: 2018-07-05-12-44-21
+  Screen on: 1h 6m 31s 179ms (100.0%) 1x, Interactive: 1h 6m 30s 639ms (100.0%)
+  Screen brightnesses:
+    dark 57m 52s 971ms (87.0%)
+    dim 7m 31s 192ms (11.3%)
+    medium 17s 510ms (0.4%)
+    light 49s 506ms (1.2%)
+  Total partial wakelock time: 181ms
+  Mobile total received: 5.52KB, sent: 11.05KB (packets received 5, sent 16)
+  Phone signal levels:
+    great 51s 195ms (1.3%) 3x
+    fully 1h 5m 40s 920ms (98.7%) 3x
+  Signal scanning time: 0ms
+  Radio types:
+    lte 1h 6m 32s 115ms (100.0%) 0x
+  Mobile radio active time: 0ms (0.0%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 1h 6m 32s 115ms (100.0%), Wifi running: 1h 6m 32s 115ms (100.0%)
+  Wifi states: (no activity)
+  Wifi supplicant states:
+    scanning 1h 6m 32s 115ms (100.0%) 0x
+  Wifi signal levels: (no activity)
+  WiFi Idle time: 0ms (--%)
+  WiFi Rx time:   0ms (--%)
+  WiFi Tx time:   0ms (--%)
+  WiFi Power drain: 0mAh
+  Bluetooth Idle time: 0ms (--%)
+  Bluetooth Rx time:   0ms (--%)
+  Bluetooth Tx time:   0ms (--%)
+  Bluetooth Power drain: 0mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 6
+    Amount discharged (upper bound): 7
+    Amount discharged while screen on: 7
+    Amount discharged while screen off: 0
+
+  Estimated power use (mAh):
+    Capacity: 2800, Computed drain: 233, actual drain: 168-196
+    Screen: 121
+    Uid u0a157: 101 ( wifi=1.02 gps=100 )
+    Uid u0a87: 6.70 ( sensor=6.70 )
+    Wifi: 1.66 ( wifi=1.66 )
+    Cell standby: 1.11 ( radio=1.11 )
+    Uid 1000: 0.355 ( wake=0.000139 radio=0.0000411 sensor=0.355 )
+    Uid u0a155: 0.292 ( wifi=0.292 )
+    Uid 0: 0.00525 ( wake=0.00525 )
+    Idle: 0.000988
+    Uid u0a95: 0.000812 ( wake=0.000812 )
+    Uid 1001: 0.000299 ( wake=0.000299 )
+    Over-counted: 36.7 ( )
+
+  All kernel wake locks:
+  Kernel Wake lock ttyC0       : 854ms (1 times) realtime
+  Kernel Wake lock ccci3_at    : 841ms (1 times) realtime
+  Kernel Wake lock PowerManagerService.Display: 512ms (1 times) realtime
+  Kernel Wake lock PowerManagerService.WakeLocks: 184ms (3 times) realtime
+  Kernel Wake lock EINT wakelock: 112ms (1 times) realtime
+  Kernel Wake lock WLAN AHB ISR: 108ms (1 times) realtime
+  Kernel Wake lock battery meter wakelock: 69ms (1 times) realtime
+  Kernel Wake lock MT662x      : 53ms (1 times) realtime
+  Kernel Wake lock wmtFuncCtrl : 22ms (1 times) realtime
+  Kernel Wake lock WLAN TX THREAD: 13ms (3 times) realtime
+  Kernel Wake lock pmicAuxadc irq wakelock: 13ms (6 times) realtime
+  Kernel Wake lock WLAN Timer  : 12ms (1 times) realtime
+  Kernel Wake lock event1      : 8ms (2 times) realtime
+  Kernel Wake lock KeyEvents   : 7ms (1 times) realtime
+  Kernel Wake lock pmicThread_lock_mt6328 wakelock: 1ms (1 times) realtime
+
+  All partial wake locks:
+  Wake lock u0a95 show keyguard: 117ms (1 times) realtime
+  Wake lock 1001 RILJ: 44ms (2 times) realtime
+  Wake lock 1000 WifiSuspend: 14ms (1 times) realtime
+  Wake lock 1000 PhoneWindowManager.mPowerKeyWakeLock: 7ms (1 times) realtime
+
+  0:
+    Total cpu time: u=500ms s=3m 48s 200ms p=0mAh
+    Proc mtk charger_hv_:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc stp_dump3:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Proc kworker/u17:3:
+      CPU: 0ms usr + 390ms krn ; 0ms fg
+    Proc kworker/u17:2:
+      CPU: 0ms usr + 230ms krn ; 0ms fg
+    Proc kworker/u17:1:
+      CPU: 0ms usr + 490ms krn ; 0ms fg
+    Proc kworker/u17:0:
+      CPU: 0ms usr + 970ms krn ; 0ms fg
+    Proc kworker/u16:3:
+      CPU: 0ms usr + 210ms krn ; 0ms fg
+    Proc kworker/u16:2:
+      CPU: 0ms usr + 320ms krn ; 0ms fg
+    Proc kworker/u16:1:
+      CPU: 0ms usr + 360ms krn ; 0ms fg
+    Proc kworker/u16:0:
+      CPU: 0ms usr + 400ms krn ; 0ms fg
+    Proc btif_rxd:
+      CPU: 0ms usr + 1s 530ms krn ; 0ms fg
+    Proc kworker/5:1H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/4:1H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/3:1H:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/2:1H:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/2:0H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/1:1H:
+      CPU: 0ms usr + 50ms krn ; 0ms fg
+    Proc kworker/1:0H:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/0:1H:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/0:0H:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc display_check_a:
+      CPU: 0ms usr + 270ms krn ; 0ms fg
+    Proc bat_routine_thr:
+      CPU: 0ms usr + 690ms krn ; 0ms fg
+    Proc migration/7:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc migration/6:
+      CPU: 0ms usr + 90ms krn ; 0ms fg
+    Proc migration/5:
+      CPU: 0ms usr + 130ms krn ; 0ms fg
+    Proc migration/4:
+      CPU: 0ms usr + 220ms krn ; 0ms fg
+    Proc migration/3:
+      CPU: 0ms usr + 120ms krn ; 0ms fg
+    Proc migration/2:
+      CPU: 0ms usr + 410ms krn ; 0ms fg
+    Proc migration/1:
+      CPU: 0ms usr + 1s 0ms krn ; 0ms fg
+    Proc migration/0:
+      CPU: 0ms usr + 960ms krn ; 0ms fg
+    Proc wpa_supplicant:
+      CPU: 4s 370ms usr + 1s 600ms krn ; 0ms fg
+    Proc ksoftirqd/6:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/5:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc ksoftirqd/4:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc ksoftirqd/2:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc ksoftirqd/1:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc ksoftirqd/0:
+      CPU: 0ms usr + 1s 310ms krn ; 0ms fg
+    Proc mtkrild:
+      CPU: 520ms usr + 1s 60ms krn ; 0ms fg
+    Proc tx_thread:
+      CPU: 0ms usr + 3s 140ms krn ; 0ms fg
+    Proc mmcqd/0:
+      CPU: 0ms usr + 1s 370ms krn ; 0ms fg
+    Proc bat_percent_not:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc zygote64:
+      CPU: 10ms usr + 180ms krn ; 0ms fg
+    Proc dlpt_notify_thr:
+      CPU: 0ms usr + 30s 750ms krn ; 0ms fg
+    Proc healthd:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+    Proc mtk_stp_psm:
+      CPU: 0ms usr + 820ms krn ; 0ms fg
+    Proc kworker/7:1:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc kworker/6:2:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc kworker/5:2:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/5:1:
+      CPU: 0ms usr + 60ms krn ; 0ms fg
+    Proc kworker/5:0:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc kworker/4:3:
+      CPU: 0ms usr + 170ms krn ; 0ms fg
+    Proc kworker/4:1:
+      CPU: 0ms usr + 150ms krn ; 0ms fg
+    Proc kworker/4:0:
+      CPU: 0ms usr + 120ms krn ; 0ms fg
+    Proc kworker/2:2:
+      CPU: 0ms usr + 70ms krn ; 0ms fg
+    Proc kworker/2:0:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc kworker/1:2:
+      CPU: 0ms usr + 460ms krn ; 0ms fg
+    Proc kworker/1:1:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc kworker/1:0:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc kworker/0:2:
+      CPU: 0ms usr + 31s 940ms krn ; 0ms fg
+    Proc kworker/0:1:
+      CPU: 0ms usr + 32s 720ms krn ; 0ms fg
+    Proc kworker/0:0:
+      CPU: 0ms usr + 6s 110ms krn ; 0ms fg
+    Proc hps_main:
+      CPU: 0ms usr + 35s 350ms krn ; 0ms fg
+    Proc irq/371-cwmcu:
+      CPU: 0ms usr + 15s 240ms krn ; 0ms fg
+    Proc kthreadd:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc viarild:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc rcu_sched:
+      CPU: 0ms usr + 230ms krn ; 0ms fg
+    Proc rcu_preempt:
+      CPU: 0ms usr + 3s 560ms krn ; 0ms fg
+    Proc /init:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc netd:
+      CPU: 170ms usr + 100ms krn ; 0ms fg
+    Proc logd:
+      CPU: 960ms usr + 580ms krn ; 0ms fg
+    Proc lmkd:
+      CPU: 50ms usr + 100ms krn ; 0ms fg
+    Proc adbd:
+      CPU: 10ms usr + 520ms krn ; 0ms fg
+    Proc pbm:
+      CPU: 0ms usr + 880ms krn ; 0ms fg
+    Proc gsm0710muxd:
+      CPU: 170ms usr + 290ms krn ; 0ms fg
+    Proc mtk_wmtd:
+      CPU: 0ms usr + 710ms krn ; 0ms fg
+    Proc kswapd0:
+      CPU: 0ms usr + 160ms krn ; 0ms fg
+    Proc ueventd:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Proc hang_detect:
+      CPU: 0ms usr + 90ms krn ; 0ms fg
+    Proc wdtk-7:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc wdtk-6:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc wdtk-5:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc wdtk-4:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc wdtk-3:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc wdtk-2:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc wdtk-1:
+      CPU: 0ms usr + 40ms krn ; 0ms fg
+    Proc wdtk-0:
+      CPU: 0ms usr + 80ms krn ; 0ms fg
+    Proc sdcard:
+      CPU: 10ms usr + 170ms krn ; 0ms fg
+    Proc bat_update_thre:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc jbd2/dm-1-8:
+      CPU: 0ms usr + 350ms krn ; 0ms fg
+    Proc mtkmal:
+      CPU: 510ms usr + 440ms krn ; 0ms fg
+    Proc cfinteractive:
+      CPU: 0ms usr + 7s 150ms krn ; 0ms fg
+    Proc volte_stack:
+      CPU: 200ms usr + 810ms krn ; 0ms fg
+    Proc disp_check:
+      CPU: 0ms usr + 10s 640ms krn ; 0ms fg
+    Proc rilproxy:
+      CPU: 350ms usr + 280ms krn ; 0ms fg
+    Proc present_fence_w:
+      CPU: 0ms usr + 290ms krn ; 0ms fg
+    Proc synaptics-tpd:
+      CPU: 0ms usr + 160ms krn ; 0ms fg
+    Proc disp_idlemgr:
+      CPU: 0ms usr + 14s 110ms krn ; 0ms fg
+    Proc pmic_thread:
+      CPU: 0ms usr + 30ms krn ; 0ms fg
+    Proc volte_ua:
+      CPU: 160ms usr + 840ms krn ; 0ms fg
+    Proc ion_mm_heap:
+      CPU: 0ms usr + 390ms krn ; 0ms fg
+  1000:
+    Mobile network: 5.52KB received, 11.05KB sent (packets 5 received, 16 sent)
+    User activity: 10 other, 15 button, 30 touch
+    Wake lock ActivityManager-Sleep realtime
+    Wake lock WifiSuspend: 14ms partial (1 times) realtime
+    Wake lock LocationManagerService realtime
+    Wake lock *alarm* realtime
+    Wake lock PhoneWindowManager.mPowerKeyWakeLock: 7ms partial (1 times) realtime
+    Wake lock *vibrator* realtime
+    Wake lock *launch* realtime
+    Wake lock NetworkStats realtime
+    Wake lock Boost realtime
+    Wake lock GpsLocationProvider realtime
+    TOTAL wake: 21ms partial realtime
+    Sensor 0: 1h 6m 31s 43ms realtime (1 times)
+    Sensor 3: 1h 6m 31s 203ms realtime (1 times)
+    Vibrator: 112ms realtime (5 times)
+    Foreground activities: 30s 711ms realtime (7 times)
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=2m 47s 250ms s=1m 52s 510ms p=0mAh
+    Proc goodixfingerprintd:
+      CPU: 470ms usr + 13s 930ms krn ; 0ms fg
+    Proc volte_imcb:
+      CPU: 10ms usr + 300ms krn ; 0ms fg
+    Proc servicemanager:
+      CPU: 690ms usr + 920ms krn ; 0ms fg
+    Proc com.fw.upgrade.sysoper:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc com.jrdcom.salestracker:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc com.android.settings:
+      CPU: 2s 60ms usr + 700ms krn ; 2s 630ms fg
+    Proc thermald:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.atci.service:
+      CPU: 320ms usr + 340ms krn ; 0ms fg
+    Proc thermalloadalgod:
+      CPU: 0ms usr + 150ms krn ; 0ms fg
+    Proc fuelgauged:
+      CPU: 200ms usr + 820ms krn ; 0ms fg
+    Proc aal:
+      CPU: 220ms usr + 790ms krn ; 0ms fg
+    Proc pq:
+      CPU: 0ms usr + 20ms krn ; 0ms fg
+    Proc ged_srv:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Proc gas_srv:
+      CPU: 630ms usr + 940ms krn ; 0ms fg
+    Proc com.tcl.ota:
+      CPU: 20ms usr + 10ms krn ; 0ms fg
+    Proc surfaceflinger:
+      CPU: 8s 570ms usr + 7s 300ms krn ; 0ms fg
+    Proc vtservice:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+    Proc com.mediatek.voiceextension:
+      CPU: 40ms usr + 0ms krn ; 0ms fg
+    Proc system:
+      CPU: 2m 19s 330ms usr + 1m 18s 320ms krn ; 0ms fg
+    Proc thermal:
+      CPU: 70ms usr + 530ms krn ; 0ms fg
+    Proc com.tct.onetouchbooster:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.mediatek.schpwronoff:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Proc 6620_launcher:
+      CPU: 10ms usr + 140ms krn ; 0ms fg
+    Apk com.fw.upgrade.sysoper:
+      Service com.adups.fota.sysoper.TaskService:
+        Created for: 29ms uptime
+        Starts: 2, launches: 2
+    Apk com.jrdcom.salestracker:
+      Wakeup alarm *walarm*:salestracker.check: 1 times
+    Apk android:
+      Wakeup alarm *walarm*:android.appwidget.action.APPWIDGET_UPDATE: 2 times
+    Apk com.tct.onetouchbooster:
+      Wakeup alarm *walarm*:AUTO_KILL: 1 times
+    Apk com.mediatek.schpwronoff:
+      Service com.mediatek.schpwronoff.AlarmReceiverService:
+        Created for: 38ms uptime
+        Starts: 1, launches: 1
+  1001:
+    Wake lock *alarm* realtime
+    Wake lock ServiceStateTracker realtime
+    Wake lock RILJ: 44ms partial (2 times) realtime
+    TOTAL wake: 44ms partial realtime
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=6s 680ms s=8s 460ms p=0mAh
+    Proc com.android.phone:
+      CPU: 5s 0ms usr + 6s 60ms krn ; 0ms fg
+    Proc com.mediatek.wfo.impl:
+      CPU: 20ms usr + 30ms krn ; 0ms fg
+    Proc com.mediatek.engineermode:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+    Apk com.android.phone:
+      Wakeup alarm *walarm*:com.android.internal.telephony.data-stall: 67 times
+  1010:
+    Total cpu time: u=4s 590ms s=1s 870ms p=0mAh
+    Proc wifi2agps:
+      CPU: 30ms usr + 150ms krn ; 0ms fg
+  1013:
+    Wake lock AudioMix realtime
+    Audio: 1h 6m 32s 115ms realtime (0 times)
+    Total cpu time: u=90ms s=160ms p=0mAh
+    Proc mediaserver:
+      CPU: 170ms usr + 140ms krn ; 0ms fg
+  1021:
+    Total cpu time: u=45s 540ms s=11s 700ms p=0mAh
+    Proc mnld:
+      CPU: 42s 610ms usr + 9s 810ms krn ; 0ms fg
+    Proc mtk_agpsd:
+      CPU: 750ms usr + 840ms krn ; 0ms fg
+  1023:
+    Total cpu time: u=30ms s=180ms p=0mAh
+    (nothing executed)
+  1036:
+    Total cpu time: u=990ms s=640ms p=0mAh
+    (nothing executed)
+  2000:
+    Total cpu time: u=20ms s=90ms p=0mAh
+    Proc batterywarning:
+      CPU: 20ms usr + 70ms krn ; 0ms fg
+  u0a72:
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=10ms s=0ms p=0mAh
+    Proc com.tct.calendar:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a73:
+    Foreground for: 1h 6m 19s 906ms 
+    Active for: 1h 6m 19s 989ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=70ms s=30ms p=0mAh
+    Proc com.android.providers.calendar:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a74:
+    Foreground for: 12s 793ms 
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=1s 10ms s=300ms p=0mAh
+    Proc android.process.acore:
+      CPU: 0ms usr + 10ms krn ; 0ms fg
+      1 starts
+    Proc com.android.contacts:
+      CPU: 10ms usr + 30ms krn ; 0ms fg
+    Proc com.android.contacts:remote:
+      CPU: 530ms usr + 130ms krn ; 0ms fg
+  u0a75:
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=0ms s=20ms p=0mAh
+    Proc com.tct.camera:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+  u0a76:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a77:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a78:
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=100ms s=50ms p=0mAh
+    Proc com.android.dialer:
+      CPU: 110ms usr + 40ms krn ; 0ms fg
+  u0a79:
+    Foreground for: 91ms 
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=130ms s=30ms p=0mAh
+    Proc android.process.media:
+      CPU: 80ms usr + 30ms krn ; 0ms fg
+    Apk com.android.providers.media:
+      Service com.android.providers.media.MtpService:
+        Created for: 1s 198ms uptime
+        Starts: 2, launches: 2
+  u0a80:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a81:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a82:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a83:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a84:
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=0ms s=10ms p=0mAh
+  u0a85:
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=0ms s=10ms p=0mAh
+    Proc com.tct.gallery3d:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a87:
+    Wake lock *vibrator* realtime
+    Wake lock *launch* realtime
+    Sensor 2: 1h 5m 52s 438ms realtime (47 times)
+    Vibrator: 60ms realtime (2 times)
+    Foreground activities: 22s 557ms realtime (4 times)
+    Foreground for: 1h 5m 54s 148ms 
+    Active for: 1h 5m 54s 218ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=12s 630ms s=6s 740ms p=0mAh
+    Proc com.tct.launcher:
+      CPU: 11s 730ms usr + 6s 90ms krn ; 4s 620ms fg
+  u0a88:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a89:
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=10ms s=0ms p=0mAh
+    Proc com.android.mms:
+      CPU: 10ms usr + 10ms krn ; 0ms fg
+  u0a90:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a93:
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=0ms s=10ms p=0mAh
+    Proc com.tct.soundrecorder:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+  u0a94:
+    Active for: 1h 6m 32s 115ms 
+  u0a95:
+    User activity: 2 other
+    Wake lock *vibrator* realtime
+    Wake lock show keyguard: 117ms partial (1 times) realtime
+    Wake lock *launch* realtime
+    TOTAL wake: 117ms partial realtime
+    Vibrator: 60ms realtime (2 times)
+    Foreground activities: 5s 735ms realtime (1 times)
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=11s 100ms s=4s 370ms p=0mAh
+    Proc com.android.systemui:
+      CPU: 7s 90ms usr + 3s 20ms krn ; 1s 40ms fg
+    Proc com.android.systemui:screenshot:
+      CPU: 1s 590ms usr + 540ms krn ; 0ms fg
+      1 starts
+    Apk com.android.systemui:
+      Service com.android.systemui.screenshot.TakeScreenshotService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 5
+  u0a107:
+    Wake lock *alarm* realtime
+    Wake lock AlarmClock realtime
+    Active for: 170ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=20ms s=10ms p=0mAh
+    Proc com.android.deskclock:
+      CPU: 10ms usr + 30ms krn ; 0ms fg
+  u0a109:
+    Foreground for: 1h 6m 20s 44ms 
+    Active for: 1h 6m 20s 79ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=50ms s=10ms p=0mAh
+    Proc com.mediatek.providers.drm:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a112:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a116:
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=0ms s=10ms p=0mAh
+  u0a117:
+    Foreground for: 1h 6m 11s 936ms 
+    Active for: 1h 6m 12s 135ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=130ms s=30ms p=0mAh
+    Proc com.mediatek.mtklogger:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      2 starts
+  u0a118:
+    Foreground for: 1h 6m 32s 115ms 
+    Total cpu time: u=140ms s=70ms p=0mAh
+    Proc com.jrdcom.wearable.standalone.app:Service:
+      CPU: 50ms usr + 0ms krn ; 0ms fg
+    Proc com.jrdcom.wearable.standalone.app:LOG:
+      CPU: 40ms usr + 80ms krn ; 0ms fg
+    Proc com.jrdcom.wearable.standalone.app:Cloud:
+      CPU: 20ms usr + 20ms krn ; 0ms fg
+    Apk com.jrdcom.wearable.standalone.app:
+      Service com.jrdcom.wearable.smartband2.util.LogService:
+        Created for: 6m 17s 557ms uptime
+        Starts: 6, launches: 6
+  u0a119:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a120:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a123:
+    Foreground for: 1h 6m 20s 196ms 
+    Active for: 1h 6m 20s 281ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=60ms s=10ms p=0mAh
+    Proc com.tct.note:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a126:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a127:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a129:
+    Active for: 1h 6m 32s 115ms 
+  u0a132:
+    Wake lock *alarm* realtime
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=570ms s=330ms p=0mAh
+    Proc com.tcl.gc.china:tclservice_v1:
+      CPU: 50ms usr + 20ms krn ; 0ms fg
+    Proc com.tcl.gc.china:
+      CPU: 470ms usr + 310ms krn ; 0ms fg
+  u0a133:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a134:
+    Wake lock *alarm* realtime
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=60ms s=40ms p=0mAh
+    Proc com.moji.tcl:Skin:
+      CPU: 10ms usr + 0ms krn ; 0ms fg
+    Proc com.moji.tcl:pushservice:
+      CPU: 30ms usr + 20ms krn ; 0ms fg
+    Proc com.moji.tcl:
+      CPU: 50ms usr + 10ms krn ; 0ms fg
+    Apk com.moji.tcl:
+      Service com.moji.tcl.event.EventService:
+        Created for: 89ms uptime
+        Starts: 1, launches: 1
+  u0a135:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a136:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a137:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a138:
+    Foreground for: 1h 6m 32s 115ms 
+  u0a139:
+    Foreground for: 38m 36s 982ms 
+    Active for: 38m 37s 30ms 
+    Running for: 1h 6m 32s 115ms 
+    Total cpu time: u=70ms s=20ms p=0mAh
+    Proc cn.andouya:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+    Apk cn.andouya:
+      Service com.pingstart.adsdk.OptimizeService:
+        Created for: 141ms uptime
+        Starts: 1, launches: 1
+  u0a140:
+    Foreground for: 1h 6m 31s 885ms 
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=150ms s=70ms p=0mAh
+    Proc com.tclmarket:
+      CPU: 0ms usr + 0ms krn ; 0ms fg
+      1 starts
+  u0a141:
+    Wake lock *alarm* realtime
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=100ms s=20ms p=0mAh
+    Proc sogou.mobile.explorer.hotwords:
+      CPU: 40ms usr + 10ms krn ; 0ms fg
+    Proc com.sohu.inputmethod.sogou:
+      CPU: 40ms usr + 20ms krn ; 0ms fg
+    Apk com.sohu.inputmethod.sogou:
+      Service sogou.mobile.explorer.hotwords.entrance.SogouInputEntranceService:
+        Created for: 78ms uptime
+        Starts: 12, launches: 12
+  u0a154:
+    Apk com.ximalaya.ting.android:
+      Service com.igexin.sdk.PushService:
+        Created for: 7m 55s 946ms uptime
+        Starts: 1, launches: 0
+  u0a155:
+    Wifi Running: 0ms (0.0%)
+    Full Wifi Lock: 0ms (0.0%)
+    Wifi Scan: 10s 494ms (0.3%) 6x
+    Wake lock LocationManagerService realtime
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=4s 760ms s=4s 300ms p=0mAh
+    Proc com.baidu.map.location:
+      CPU: 4s 570ms usr + 4s 100ms krn ; 0ms fg
+  u0a157:
+    Wifi Running: 0ms (0.0%)
+    Full Wifi Lock: 0ms (0.0%)
+    Wifi Scan: 36s 671ms (0.9%) 21x
+    Wake lock LocationManagerService realtime
+    Wake lock *launch* realtime
+    Sensor GPS: 1h 5m 30s 267ms realtime (2 times)
+    Foreground activities: 1h 5m 30s 346ms realtime (4 times)
+    Foreground for: 1h 5m 30s 414ms 
+    Active for: 1h 6m 32s 115ms 
+    Total cpu time: u=8s 500ms s=3s 950ms p=0mAh
+    Proc com.borui.littlejane:
+      CPU: 720ms usr + 290ms krn ; 800ms fg
+    Proc com.borui.littlejane:remote:
+      CPU: 7s 740ms usr + 3s 790ms krn ; 0ms fg
+    Apk com.borui.littlejane:
+      Service com.baidu.location.f:
+        Created for: 0ms uptime
+        Starts: 0, launches: 2
+  u10s1000:
+    Foreground for: 1h 6m 32s 115ms 
+
